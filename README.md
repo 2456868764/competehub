@@ -1,6 +1,6 @@
 # CompeteHub.dev
 
-![CompeteHub Logo](https://competehub.dev/images/logo.png)
+![CompeteHub Logo](https://competehub.dev/android-chrome-192x192.svg)
 
 **Your Ultimate AI Competition Aggregator**
 
