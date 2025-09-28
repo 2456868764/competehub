@@ -35,7 +35,7 @@ CompeteHub.dev is a comprehensive platform that aggregates AI competitions from 
 # 2025 September AI Competition Summary
 
 
-Total 59 competitionsSeptember 1 - September 30
+A total of 59 competitions between September 1 and September 30.
 
 | Competition                                                                                                                                                                                                                                                   | Prize    | Teams | Start Date   | End Date     | Type                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------- | ----- | ------------ | ------------ | ----------------------- |
