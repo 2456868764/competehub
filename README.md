@@ -31,7 +31,6 @@ CompeteHub.dev is a comprehensive platform that aggregates AI competitions from 
 # 🗓️ Historical Competition Calendar
 - [2025 July Calendar](/calendar/2025-07.md)
 - [2025 August Calendar](/calendar/2025-08.md)
-- [2025 September Calendar](/calendar/2025-09.md)
 
 # 2025 September AI Competition Collection Summary
 
