@@ -1,8 +1,9 @@
-# CompeteHub.dev
+# CompeteHub.dev **Your Ultimate AI Competition Aggregator**
 
 ![CompeteHub Logo](https://competehub.dev/android-chrome-192x192.svg)
 
-**Your Ultimate AI Competition Aggregator**
+[English](README.md) | [中文](README_zh.md)
+
 
 ## About CompeteHub
 
@@ -28,8 +29,6 @@ CompeteHub.dev is a comprehensive platform that aggregates AI competitions from 
 
 ### 📬 Weekly Newsletter Subscription
 - **Competition Updates**: Receive the latest competition information directly to your inbox
-- **Curated Content**: Get personalized recommendations based on your interests
-- **Deadline Reminders**: Never miss important competition deadlines
 
 # 🗓️ Historical Competition Calendar
 - [2025 July Calendar](/calendar/2025-07.md)
